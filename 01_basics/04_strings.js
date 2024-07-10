@@ -33,4 +33,4 @@ const url = "http//google.com/string%20interpolation";
 // console.log(url.replace('%20', '#')) 
 
 // console.log(url.includes('google')); 
-console.log(url.split(' '));
+console.log(url.split('g'));
