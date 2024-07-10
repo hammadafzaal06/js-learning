@@ -46,3 +46,8 @@ let arr2 = arr1;            // arr2 is a reference to arr1
 arr1.push(4);               // Changing arr1 affects arr2
 console.log(arr1);          // [1, 2, 3, 4]
 console.log(arr2);          // [1, 2, 3, 4]
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive DataType) and Heap(Non-Primitive DataType) Memory
+
